@@ -17,11 +17,11 @@
 
 @font-face{
   font-family: "bbc";
-  src:url("./../fonts/stick.ttf");
+  src:url("./../fonts/Whisper-Regular.ttf");
 }
 
 @font-face {
-  font-family: aka;
+  font-family: "aka";
   src:local(akaya),url(./../fonts/akaya.ttf) format("woff");
 }
 
